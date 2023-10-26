@@ -1,0 +1,34 @@
+.box_M{
+    margin:20px;   
+    margin-top: 40px;
+    float: left;
+    gap: 30px;
+    margin-left: 140px;
+}
+.card_box{
+    border: 1px solid black;
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color:hsl(211, 40%, 72%);
+
+}
+.cardbox-img img{
+    margin-top: 20px;
+   margin-left: 10px;
+    width: 90%;
+    height: 250px;
+}
+.text{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+.about{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+}

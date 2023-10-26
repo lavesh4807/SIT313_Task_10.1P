@@ -1,0 +1,34 @@
+.display{
+    float: left;
+    margin:30px; 
+    margin-left:150px;
+    gap:30px;
+
+}
+.displaycard1{
+    
+    border: 1px solid black;
+    width: 300px;
+    height: auto;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #eef0d8;
+    background-image: linear-gradient(360deg, #627ebb 0%, rgb(57, 59, 160), #889ccf 100%, rgb(64, 72, 150));
+    border-radius: 20px;
+    
+}
+
+.random1{
+    text-align: center;
+    color: rgb(14, 45, 2);
+    font-style: italic;
+}
+.description1{
+    font-size: 15px;
+    color: rgb(21, 1, 1);
+}
+.img_1 img{
+    margin-top: 10px;
+    width:250px;
+    height:230px;
+}

@@ -1,0 +1,13 @@
+.SubPart1{
+    
+    float: left;
+    width: 100%;
+}
+.SubPart_h1{
+    
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:15px;
+    border-radius: 30px;
+}
